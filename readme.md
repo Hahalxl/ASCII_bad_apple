@@ -14,3 +14,4 @@ $ python run.py
 
 > OpenCV with python package installed and well configured.  
 > pip package: ```image```
+> pip package: ```opencv```
